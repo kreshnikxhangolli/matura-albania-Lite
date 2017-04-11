@@ -1,5 +1,9 @@
-This is the Lite version of the project containing only core files to run the application (RDS and app.R). Lite versionion
-improves first time download when the application is run with shiny::runGitHub().
+This RShiny web application enables Albanian high school graduates to use a naive
+classifier to calculate their chances of being admitted to Albanian public universities. 
+Please read "Full_Project_Report.pdf" for more details.
+
+This is the Lite version of the project containing only core files to run the application (RDS and app.R). 
+Lite version improves first time download when the application is run with shiny::runGitHub().
 The full version includes datasets and R scripts for data wrangling. Please refer to repository "matura-albania"
 
 Installation instructions for R users.
